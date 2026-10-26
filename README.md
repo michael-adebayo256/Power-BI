@@ -187,3 +187,5 @@ Through this project, I developed practical experience in:
 ---
 
 ⭐ *Developing practical data analytics and business intelligence skills through hands-on projects.*
+# Dashboard #
+[Link to my Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjNhMDZlNzEtNmI0MC00ZGQzLWFlYWQtZTk5MjRhZGVmMzZiIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
